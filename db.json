@@ -1,0 +1,56 @@
+[
+    {
+        "id": 0,
+        "nomfilm": "John Wick : (Chapitre 4)",
+        "genre": "Action",
+        "Date_de_sortie": "24 mars 2023(États-Unis)",
+        "Réalisateur": "Chad Stahelski",
+        "propos": "John Wick affronte ses adversaires les plus mortels dans le quatrième volet de la série. Le prix de sa tête ne cessant d augmenter, Wick mène son combat à l échelle mondiale en recherchant les acteurs les plus puissants de la pègre, de New York à Paris en passant par Osaka et Berlin",
+        "postaire": "https://accessreel.com/app/uploads/2022/11/johnwick4-poster-key-art.jpg"
+    },
+    {
+        "id": 1,
+        "nomfilm": "Wonka",
+        "genre": "Comedie",
+        "Date_de_sortie": "15 décembre 2023 ( États-Unis )",
+        "Réalisateur": "Paul King",
+        "propos": "Wonka est un film américano-britannique réalisé par Paul King et dont la sortie est prévue pour 2023. Il s'agit d'une préquelle au roman Charlie et la Chocolaterie de Roald Dahl, racontant la jeunesse de Willy Wonka.",
+        "postaire": "https://imgsrc.cineserie.com/2022/10/2141865.jpg?ver=1"
+    },
+    {
+        "id": 2,
+        "nomfilm": "Aquaman and the Lost Kingdom",
+        "genre": "Action/Cinéma de fantasy",
+        "Date_de_sortie": "25 décembre 2023 (États-Unis)",
+        "Réalisateur": "James Wan",
+        "propos": "Le superhéros Aquaman tente par tous les moyens de sauver la ville sous-marine d'Atlantis et le reste de la planète d'une catastrophe imminente. Afin de minimiser les dégâts, il devra s'efforcer de forger une alliance difficile avec un allié improbable",
+        "postaire": "https://flxt.tmsimg.com/assets/p18935685_v_v13_aa.jpg"
+    },
+    {
+        "id": 3,
+        "nomfilm": "Fast and Furious 10",
+        "genre": "Action/Aventure",
+        "Date_de_sortie": "19 mai 2023 (États-Unis)",
+        "Réalisateur": "Louis Leterrier",
+        "propos": "Fast and Furious 10, ou Rapides et dangereux 10 au Québec, est un film d'action américain réalisé par Louis Leterrier et dont la sortie est prévue en 2023. Il s'agit du 11ᵉ et dernier long métrage découpé en deux parties de la franchise Fast and Furious et la suite du film Fast and Furious 9 sorti en 2021",
+        "postaire": "https://www.nextplz.fr/wp-content/uploads/nextplz/2022/01/fast-and-furious-10.jpg"
+    },
+    {
+        "id": 4,
+        "nomfilm": "The Marvels",
+        "genre": " SF/Aventure",
+        "Date_de_sortie": "28 juillet 2023 (États-Unis)",
+        "Réalisateur": " Nia DaCosta",
+        "propos": "The Marvels est un film américain réalisé par Nia DaCosta et dont la sortie est prévue en 2023. Il s'agit du 33ᵉ film de l'univers cinématographique Marvel et le 3ᵉ de la phase V. Il met en scène Brie Larson dans le rôle de Carol Danvers/Captain Marvel, aux côtés d'Iman Vellani et Teyonah Parris",
+        "postaire": "https://images.thedirect.com/media/article_full/the-marvels-reshoots0-mcu-d23.jpg"
+    },
+    {
+        "id": 5,
+        "nomfilm": "Spider-Man : Across the Spider-Verse ",
+        "genre": "Action/SF",
+        "Date_de_sortie": "2 juin 2023 (États-Unis)",
+        "Réalisateur": "  Joaquim Dos Santos, Kemp Powers, Justin Thompson",
+        "propos": "Miles Morales revient pour une aventure épique qui entraînera notre héros sympa originaire de Brooklyn, à travers le Multivers pour unir ses forces à celles de Gwen Stacy et une nouvelle équipe de super héros. Ensemble, il vont faire face au méchant le plus puissant qu'ils n'aient jamais affronté.",
+        "postaire": "https://media.kg-portal.ru/production/spidermanintothespiderversesequel/spidermanintothespiderversesequel_3s.jpg"
+    }
+]
