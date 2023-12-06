@@ -1,0 +1,56 @@
+[
+    {
+        "id": 0,
+        "nomfilm": "Le Samaritain",
+        "genre": "Action/Cinéma de fantasy",
+        "Date_de_sortie": "26 août 2022 (États-Unis)",
+        "Réalisateur": "Julius Avery",
+        "propos": "Âgé de 13 ans, Sam Cleary suspecte que son mystérieux et solitaire voisin, Mr. Smith, soit en réalité une légende qui se cache au grand jour. Il y a 25 ans, le super justicier de Granite City, Le Samaritain, a été déclaré mort dans un entrepôt, après un combat tragique avec son rival, Nemesis. Alors que la ville est au bord du chaos et que les crimes se multiplient, Sam se donne pour mission de persuader son voisin de sortir de sa cachette et de sauver la ville de la ruine.",
+        "postaire": "https://th-i.thgim.com/public/entertainment/movies/vw4yf2/article65630530.ece/alternates/LANDSCAPE_1200/Sylvester%20Stallone.jpg"
+    },
+    {
+        "id": 1,
+        "nomfilm": "Lou",
+        "genre": "Action",
+        "Date_de_sortie": "23 septembre 2022",
+        "Réalisateur": "Anna Foerster",
+        "propos": "Pensant avoir mis son passé dangereux derrière elle, Lou voit sa vie tranquille interrompue lorsqu'une mère désespérée la supplie de sauver sa fille kidnappée",
+        "postaire": "https://m.media-amazon.com/images/M/MV5BZDgzOThkMWYtODM3My00ODdmLWE1ZjAtZTgwNmNhMDcyZWMxXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg"
+    },
+    {
+        "id": 2,
+        "nomfilm": "Luckiest Girl Alive",
+        "genre": "Film à énigme/Thriller",
+        "Date_de_sortie": "30 septembre 2022",
+        "Réalisateur": "Mike Barker",
+        "propos": "Ani FaNelli, une new-yorkaise à la vie en apparence parfaite, voit sa vie bouleversée par la résurgence d'un drame de son passé. En effet, le réalisateur d'un reportage l'invite à raconter sa version du crime choquant qui s'est produit lorsqu'elle était adolescente à la prestigieuse Bradley School",
+        "postaire": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4euxR1G4sYhUKv7nYC9Fti_Oe72XUplS4VkzKHo_h5JzHyreioQdq0T-Gl9IbUcVffSY&usqp=CAU"
+    },
+    {
+        "id": 3,
+        "nomfilm": "Carter",
+        "genre": " Action",
+        "Date_de_sortie": "5 août 2022",
+        "Réalisateur": "Jeong Byeong-gil",
+        "propos": "Carter se réveille deux mois après le début d'une pandémie mortelle provenant de la DMZ et qui a déjà dévasté les États-Unis et la Corée du Nord. Sans aucun souvenir de son passé si ce n'est un mystérieux dispositif dans sa tête, une bombe mortelle dans sa bouche et une voix dans son oreille lui donnant des ordres pour éviter de se faire tuer. Carter est lancé dans une mystérieuse opération tandis que la CIA et le coup d'État nord-coréen le poursuivent de près",
+        "postaire": "https://fictionhorizon.com/wp-content/uploads/2022/08/cc-1.jpg"
+    },
+    {
+        "id": 4,
+        "nomfilm": "L'École du bien et du mal",
+        "genre": "Cinéma de fantasy/Drame",
+        "Date_de_sortie": "18 octobre 2022",
+        "Réalisateur": "Paul Feig",
+        "propos": "Sophie et Agatha sont meilleures amies. Elles sont destinées à intégrer l'école du bien pour la première avec Cendrillon et Blanche-Neige, et l'école du mal pour la seconde. Cependant, à la suite d'un sort, leur destinée respective va basculer et leur amitié sera mise à rude épreuve.",
+        "postaire": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWqQ2FQnb9QMxBlgsgrOzFNqmGf8L5TdcLm7IYc4G5NMIGlVIZ9ZEnyb4t2OU5kKFkR8Y&usqp=CAU"
+    },
+    {
+        "id": 5,
+        "nomfilm": "Athena",
+        "genre": "Drame",
+        "Date_de_sortie": "2 septembre 2022",
+        "Réalisateur": "Romain Gavras",
+        "propos": "Rappelé du front à la suite de la mort de son plus jeune frère, décédé des suites d’une prétendue intervention de police, Abdel retrouve sa famille déchirée. Entre le désir de vengeance de son petit frère Karim et le business en péril de son grand frère dealer Moktar, il essaye de calmer les tensions. Minute après minute, la cité Athena se transforme en château fort, théâtre d’une tragédie familiale et collective à venir. Au moment où chacun pense avoir trouvé la vérité, la cité est sur le point de basculer dans le chaos",
+        "postaire": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTz44LPAd5VQ4Rv6f4bbXzdnMQpFhEDrftQYExcSM7PEQau36w2uXNjrsQIb0n7EC2OUM&usqp=CAU"
+    }
+]
